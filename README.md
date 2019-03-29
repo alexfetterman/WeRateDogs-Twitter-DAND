@@ -1,5 +1,4 @@
 # Wrangle and Analyze Data
-Project completed as part of Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
 ## Overview
 Data from the [WeRateDogs](https://twitter.com/dog_rates) Twitter account is gathered using various techniques, 
@@ -14,4 +13,6 @@ were hidden).
 - Jupyter Notebook, GitHub
 
 ## Findings
-TBD
+TBD - All data has been gathered, assessed, and cleaned according to project guidelines and my discretion. Next step is to pull insights from the account and summarize.
+
+Project completed as part of Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
